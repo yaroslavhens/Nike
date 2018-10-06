@@ -1,0 +1,226 @@
+.body_1 {
+	max-width: 1900px;
+	height: 1050px;
+	background-image:   url(../img/fon.png); 
+	background-size: 100%;
+	min-width: 1000px;
+	margin: auto;
+	}
+.head_0 {
+	margin: 0 auto;
+	max-width: 1900px;
+	min-width: 1000px;
+	text-align: center;
+}
+.head1 {
+	list-style: none;
+	min-width: 950px;
+}
+
+.li_f {
+	display: inline-block;
+	padding: 50px;
+	margin: auto;
+	text-align: center;
+	font-family: 'Roboto:300' sans-serif;
+	color:  #ffffff;
+	font-size: 16px;/* Приближение из-за подстановки шрифтов */
+	font-weight: 300;
+	text-align:  center;
+}
+#img12 {
+	padding-right: 100px;
+}
+#img16 {
+	padding-left: 100px;
+}
+
+.main1 {
+	position: relative;
+	margin: auto;
+	width: 980px;
+	height: 400px;
+	background: url(../img/fon2.jpg	); 
+	background-size: 100%;
+	opacity: 0.5;
+	z-index: 1;
+	margin-top: 100px;
+	
+
+}
+.main2 {
+	position: relative;
+	top: -425px;
+	margin: auto;
+	width: 940px;
+	height: 450px;
+	background: url(../img/fon2.jpg	); 
+	background-size: 100%;
+	opacity: 0.8;
+	z-index: 2;
+
+}
+.main3 {
+	position: relative;
+	top: -890px;
+	margin: auto;
+	width: 900px;
+	height: 480px;
+	background-color: #f4f4f4;/* bg white */
+	z-index: 4;
+}
+.content_left {
+	float: left;
+	background-color:  #f4f4f4;
+	width: 65%;
+	height:60%;
+	background-image: url(../img/groo.png);
+	background-repeat: no-repeat;
+    background-position: center center;
+
+}
+
+.nikeN {
+	display: block;
+	padding-left: 80px;
+	padding-top: 130px;
+	z-index: 6;
+}
+.content_right {
+	float: right;
+	width: 35% ;
+	height: 100%;
+	background-color: white;
+}
+.content_left2 {
+	margin-top: 70px;
+	float: left;
+	background-color:  #f4f4f4;
+	width: 65%;
+	height:25%;
+}
+
+.add_1 {
+	position: relative;
+	z-index: 10;
+	margin-left: 520px;
+}
+
+.img4{
+	display: inline-block;
+	padding: 15px;
+	margin-top: 10px;
+}
+#blabla {
+	margin-left: 160px;
+}
+.NEW {
+	margin: 0 0 0 0;
+	font-family: 'Roboto' ;
+	color:  #ffffff;
+	font-size: 14px;/* Приближение из-за подстановки шрифтов */
+	font-weight: 400;
+	text-align: left;
+	background-color:  #ffa60d;
+	width: 14%;
+	height: 4%;
+	text-align: center;
+	padding: 5px;
+	margin-top: 20px;
+	margin-left: 35px;
+	clear: both;
+}
+.mtext {
+	margin: 0 0 0 0;
+	padding: 5px;
+	font-family: Roboto;
+	color:  #000000;
+	font-size: 32px;/* Приближение из-за подстановки шрифтов */
+	text-align: unset;
+	margin-left: 30px;
+}
+span {
+	color:  #5e4fff;
+}
+.p_star {
+	margin: 0 0 0 0;
+	font-family: Roboto;
+	color:  #000000;
+	font-size: 22px;/* Приближение из-за подстановки шрифтов */
+	text-align: unset;
+	margin-left: 34px;
+	margin-top: 10px;
+}
+.prise {
+	margin: 0 0 0 0;
+	font-family: Roboto;
+	color:  #000000;
+	font-size: 32px;/* Приближение из-за подстановки шрифтов */
+	font-weight: 300;
+	text-align: unset;
+	margin-left: 34px;
+}
+.size {
+	margin: 0 0 0 0;
+	margin-top: 0p x;
+	font-family: Roboto;
+	color:  #000000;
+	font-size: 22px;/* Приближение из-за подстановки шрифтов */
+	font-weight: 400;
+	text-align: left;
+	margin-left: 34px;
+	margin-top: 10px;
+
+}
+.size1 {
+	margin: 0 0 0 0;
+	list-style: none;
+}
+.nomer {
+	font-family: Roboto;
+		color:  #000000;
+		font-size: 20px;/* Приближение из-за подстановки шрифтов */
+		text-align: left;
+		margin-top: 10px;
+		width: 18%;
+	display: inline-block;
+}
+
+.last1 {
+	padding: 10px;
+	font-family: Roboto;
+	color:  #ffffff;
+	font-size: 12px;/* Приближение из-за подстановки шрифтов */
+	text-align: center;
+	border:1px;
+	background-color:  #a200b8;
+	width: 120px;
+	height: 15px;
+	margin-left: 34px;
+ 	margin-top: 40px;
+ 	padding-top: 13px;
+}
+.last2 {
+	padding: 10px;
+	font-family: Roboto:300;
+	color:  #000000;
+	font-size: 12px;/* Приближение из-за подстановки шрифтов */
+	text-align: center;
+	border: 1px ;
+	width: 140px;
+	margin-left: 34px;
+ 	border-style: solid;
+	border-width: 1px;
+	border-color:  #0f0f0f;
+	box-sizing: border-box;
+	background-color:  #ffffff;
+	border-size: 15px;
+	}
+.imgcl {
+	padding: 7px;
+	float: right;
+}
+.nomer:focus-within {
+    background: #DEF0E7 ;
+
+}
